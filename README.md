@@ -6,4 +6,4 @@
 
 - 🌱 I’m currently learning [Go](https://go.dev/) and [Rust](https://www.rust-lang.org/)
 - 💻 More about me: [ntenebruso.com](https://ntenebruso.com/)
-- 📫 How to reach me: [nickten2006@gmail.com](mailto:nickten2006@gmail.com)
+- 📫 How to reach me: [nick@ntenebruso.com](mailto:nick@ntenebruso.com)
